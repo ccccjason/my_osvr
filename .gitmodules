@@ -1,0 +1,15 @@
+[submodule "vendor/vrpn"]
+	path = vendor/vrpn
+	url = https://github.com/vrpn/vrpn.git
+[submodule "vendor/jenkins-ctest-plugin"]
+	path = vendor/jenkins-ctest-plugin
+	url = https://github.com/rpavlik/jenkins-ctest-plugin.git
+[submodule "json-schemas"]
+	path = json-schemas
+	url = https://github.com/OSVR/OSVR-JSON-Schemas.git
+[submodule "vendor/discount-windows-bins"]
+	path = vendor/discount-windows-bins
+	url = https://github.com/OSVR/discount.git
+[submodule "vendor/UIforETWbins"]
+	path = vendor/UIforETWbins
+	url = https://github.com/OSVR/UIforETWbins.git
